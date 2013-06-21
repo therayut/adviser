@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://localhost/adviser8/pdf/FW001.pdf" xml:space="preserve">
+<f href="FW001.pdf"/>
+<ids original="7A0631678ED475F0898815F0A818CFA1"
+modified="BEF7724317B311718E8675B677EF9B4E"/>
+<fields>
+<field name="Street">
+<value>345 Park Ave.</value>
+</field>
+<field name="City">
+<value>San Jose</value>
+</field>
+</fields>
+</xfdf>
